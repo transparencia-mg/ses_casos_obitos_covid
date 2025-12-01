@@ -607,4 +607,4 @@ resources:
           type: string
     scheme: file
     title: Insira um título humanamente legível para este recurso.
-title: Casos_obitos_covid
+title: Casos Confirmados e Óbitos - COVID 19
