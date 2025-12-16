@@ -1,11 +1,11 @@
 {
   "version": "4.16.6",
-  "time": 290.131,
+  "time": 267.002,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Dados de casos e óbitos de covid 2020",
         "dialect": {
           "delimiter": ";"
         },
@@ -104,7 +104,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "casos_e_obitos_covid_2020",
         "stats": {
           "hash": "c4ce25636f0631bf635314256c300943",
           "bytes": 85422922,
@@ -112,7 +112,7 @@
           "rows": 464791
         }
       },
-      "time": 30.123,
+      "time": 27.341,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1086,7 +1086,7 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Dados de casos e óbitos de covid 2021 - parte 1",
         "dialect": {
           "delimiter": ";"
         },
@@ -1185,7 +1185,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "casos_e_obitos_covid_2021_1",
         "stats": {
           "hash": "a6cebcd4b4f020dd0fcf31b416e7a706",
           "bytes": 95036591,
@@ -1193,7 +1193,7 @@
           "rows": 500000
         }
       },
-      "time": 34.556,
+      "time": 31.404,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -5078,7 +5078,7 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Dados de casos e óbitos de covid 2021 - parte 2",
         "dialect": {
           "delimiter": ";"
         },
@@ -5177,7 +5177,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "casos_e_obitos_covid_2021_2",
         "stats": {
           "hash": "ae9eb794982a502e1bd070f026165e7c",
           "bytes": 93179675,
@@ -5185,7 +5185,7 @@
           "rows": 500000
         }
       },
-      "time": 35.095,
+      "time": 31.886,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -6569,7 +6569,7 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Dados de casos e óbitos de covid 2021 - parte 3",
         "dialect": {
           "delimiter": ";"
         },
@@ -6668,7 +6668,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "casos_e_obitos_covid_2021_3",
         "stats": {
           "hash": "c428ffbe44657ce45d21bcba8a8260e4",
           "bytes": 73256522,
@@ -6676,7 +6676,7 @@
           "rows": 410249
         }
       },
-      "time": 26.257,
+      "time": 24.59,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -7363,7 +7363,7 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Dados de casos e óbitos de covid 2022 - parte 1",
         "dialect": {
           "delimiter": ";"
         },
@@ -7462,7 +7462,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "casos_e_obitos_covid_2022_1",
         "stats": {
           "hash": "3b40c08b0ca91154e5f7c8293933333c",
           "bytes": 95982961,
@@ -7470,7 +7470,7 @@
           "rows": 500000
         }
       },
-      "time": 34.406,
+      "time": 31.647,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -9879,7 +9879,7 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Dados de casos e óbitos de covid 2022 - parte 2",
         "dialect": {
           "delimiter": ";"
         },
@@ -9978,7 +9978,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "casos_e_obitos_covid_2022_2",
         "stats": {
           "hash": "84df45b7bcf36e122b31e42bc6378f87",
           "bytes": 93994048,
@@ -9986,7 +9986,7 @@
           "rows": 500000
         }
       },
-      "time": 34.459,
+      "time": 31.384,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -11739,7 +11739,7 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Dados de casos e óbitos de covid 2022 - parte 3",
         "dialect": {
           "delimiter": ";"
         },
@@ -11838,7 +11838,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "casos_e_obitos_covid_2022_3",
         "stats": {
           "hash": "6824850b3604810959d9ffcd5f7fbf3a",
           "bytes": 92619971,
@@ -11846,7 +11846,7 @@
           "rows": 500000
         }
       },
-      "time": 34.537,
+      "time": 31.178,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -13640,7 +13640,7 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Dados de casos e óbitos de covid 2022 - parte 4",
         "dialect": {
           "delimiter": ";"
         },
@@ -13739,7 +13739,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "casos_e_obitos_covid_2022_4",
         "stats": {
           "hash": "fcc0b94b361c66b59077362579c1c198",
           "bytes": 92204924,
@@ -13747,7 +13747,7 @@
           "rows": 500000
         }
       },
-      "time": 32.046,
+      "time": 29.112,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -14475,7 +14475,7 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Dados de casos e óbitos de covid 2022 - parte 5",
         "dialect": {
           "delimiter": ";"
         },
@@ -14574,7 +14574,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "casos_e_obitos_covid_2022_5",
         "stats": {
           "hash": "9939502efc308d169ddeb70c7c41543c",
           "bytes": 25640865,
@@ -14582,7 +14582,7 @@
           "rows": 148579
         }
       },
-      "time": 9.507,
+      "time": 8.723,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -14777,7 +14777,7 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Dados de casos e óbitos de covid 2023",
         "dialect": {
           "delimiter": ";"
         },
@@ -14876,7 +14876,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "casos_e_obitos_covid_2023",
         "stats": {
           "hash": "bc028790354ea14d72d6f131ebe1b7db",
           "bytes": 35390988,
@@ -14884,7 +14884,7 @@
           "rows": 192331
         }
       },
-      "time": 12.305,
+      "time": 11.344,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -15284,7 +15284,7 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Dados de casos e óbitos de covid 2024",
         "dialect": {
           "delimiter": ";"
         },
@@ -15383,7 +15383,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "casos_e_obitos_covid_2024",
         "stats": {
           "hash": "b15f19fa788e414109d470d2c11ea9c1",
           "bytes": 19288930,
@@ -15391,7 +15391,7 @@
           "rows": 104910
         }
       },
-      "time": 6.666,
+      "time": 6.157,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -15624,11 +15624,190 @@
         "errors": 5
       },
       "valid": false
+    },
+    {
+      "resource": {
+        "description": "Dados de casos e óbitos de covid 2025",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "casos_e_obitos_covid_2025",
+        "path": "data/casos_e_obitos_covid_2025.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "id",
+              "type": "integer"
+            },
+            {
+              "name": "urs",
+              "type": "string"
+            },
+            {
+              "name": "micro",
+              "type": "string"
+            },
+            {
+              "name": "macro",
+              "type": "string"
+            },
+            {
+              "name": "data_notificacao",
+              "type": "date"
+            },
+            {
+              "name": "sexo",
+              "type": "string"
+            },
+            {
+              "name": "idade",
+              "type": "integer"
+            },
+            {
+              "name": "municipio_residencia",
+              "type": "string"
+            },
+            {
+              "name": "codigo",
+              "type": "integer"
+            },
+            {
+              "name": "evolucao",
+              "type": "string"
+            },
+            {
+              "name": "data_evolucao",
+              "type": "any"
+            },
+            {
+              "name": "data_1_sintoma",
+              "type": "date"
+            },
+            {
+              "name": "internacao",
+              "type": "string"
+            },
+            {
+              "name": "uti",
+              "type": "string"
+            },
+            {
+              "name": "raca",
+              "type": "string"
+            },
+            {
+              "name": "etnia",
+              "type": "any"
+            },
+            {
+              "name": "comorbidade",
+              "type": "string"
+            },
+            {
+              "name": "comorbidade_detalhe",
+              "type": "any"
+            },
+            {
+              "name": "data_registro",
+              "type": "date"
+            },
+            {
+              "name": "data_atualizacao",
+              "type": "date"
+            },
+            {
+              "name": "origem_da_informacao",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "casos_e_obitos_covid_2025",
+        "stats": {
+          "hash": "1cc5ed6a0652d6f31e7a787d3d8e7c3d",
+          "bytes": 6418982,
+          "fields": 21,
+          "rows": 34840
+        }
+      },
+      "time": 2.062,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [
+        {
+          "cell": "MG2023158696590",
+          "fieldName": "id",
+          "fieldNumber": 1,
+          "fieldPosition": 1,
+          "cells": [
+            "MG2023158696590",
+            "Divinópolis",
+            "Divinópolis",
+            "Oeste",
+            "2025-02-10",
+            "MASCULINO",
+            "37",
+            "Divinópolis",
+            "312230",
+            "IGNORADO",
+            "",
+            "2025-02-08",
+            "IGNORADO",
+            "SEM INFORMACAO",
+            "NAO INFORMADO",
+            "",
+            "NAO",
+            "",
+            "2025-02-17",
+            "2025-11-11",
+            "ESUS"
+          ],
+          "rowNumber": 11984,
+          "rowPosition": 11985,
+          "code": "type-error",
+          "name": "Type Error",
+          "tags": [
+            "#table",
+            "#row",
+            "#cell"
+          ],
+          "note": "type is \"integer/default\"",
+          "message": "Type error in the cell \"MG2023158696590\" in row \"11985\" and field \"id\" at position \"1\": type is \"integer/default\"",
+          "description": "The value does not match the schema type and format for this field."
+        }
+      ],
+      "stats": {
+        "errors": 1
+      },
+      "valid": false
     }
   ],
   "stats": {
-    "errors": 344,
-    "tasks": 11
+    "errors": 345,
+    "tasks": 12
   },
   "valid": false
 }
