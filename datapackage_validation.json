@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 291.678,
+  "time": 286.936,
   "errors": [],
   "tasks": [
     {
@@ -112,7 +112,7 @@
           "rows": 464791
         }
       },
-      "time": 29.618,
+      "time": 29.418,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1193,7 +1193,7 @@
           "rows": 500000
         }
       },
-      "time": 34.554,
+      "time": 34.169,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -5185,7 +5185,7 @@
           "rows": 500000
         }
       },
-      "time": 34.821,
+      "time": 34.76,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -6676,7 +6676,7 @@
           "rows": 410249
         }
       },
-      "time": 26.455,
+      "time": 26.16,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -7470,7 +7470,7 @@
           "rows": 500000
         }
       },
-      "time": 34.693,
+      "time": 33.735,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -9986,7 +9986,7 @@
           "rows": 500000
         }
       },
-      "time": 34.283,
+      "time": 33.645,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -11846,7 +11846,7 @@
           "rows": 500000
         }
       },
-      "time": 34.437,
+      "time": 33.722,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -13747,7 +13747,7 @@
           "rows": 500000
         }
       },
-      "time": 31.891,
+      "time": 30.982,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -14582,7 +14582,7 @@
           "rows": 148579
         }
       },
-      "time": 9.523,
+      "time": 9.266,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -14884,7 +14884,7 @@
           "rows": 192331
         }
       },
-      "time": 12.222,
+      "time": 12.035,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -15391,7 +15391,7 @@
           "rows": 104910
         }
       },
-      "time": 6.735,
+      "time": 6.62,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -15734,7 +15734,7 @@
           "rows": 34840
         }
       },
-      "time": 2.246,
+      "time": 2.225,
       "scope": [
         "hash-count-error",
         "byte-count-error",
